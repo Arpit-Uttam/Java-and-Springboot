@@ -1,4 +1,4 @@
-//it only works with method overriding not method overloading
+//it only works with method overriding not method overloading with inheritance
 class A{
     public void show(){
         System.out.println("In class A");
